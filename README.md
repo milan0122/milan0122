@@ -16,7 +16,7 @@ You can reach me at: [dangi.milan46@gmail.com](mailto:dangi.milan46@gmail.com)
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/milandangi01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milandangi01?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4cXZi0jRSZukXLlMpa6Unw%3D%3D)
 ---
 
 ### 🛠️ Languages and Tools
