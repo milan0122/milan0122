@@ -1,17 +1,9 @@
 <h1 align="center">Hello, I'm Milan Dangi 👋</h1>
-<h3 align="center">A Passionate Frontend Developer from Nepal</h3>
 
----
+- I am a **data science enthusiast ** with learning experience in machine learning and its applications, including **natural language processing with NLTK** and **deep learning**.My projects span across data analysis, predictive modeling, and recommendation systems.
+- 🌱 **Currently learning:** Mobile app development using **Flutter** to enhance my skills in cross-platform development.
+- 🤝 **Looking to collaborate on:** Exciting projects in **machine learning**, **app development**, and **data-driven solutions**.
 
-### 🚀 About Me
-- 🔭 I’m currently working on an **Emotion-Based Music Recommendation System**.
-- 🌱 I’m expanding my skills in **App Development with Flutter**.
-- 💬 Feel free to ask me about **Machine Learning** and its applications.
-
----
-
-### 📫 Get in Touch
-You can reach me at: [dangi.milan46@gmail.com](mailto:dangi.milan46@gmail.com)
 
 ---
 
