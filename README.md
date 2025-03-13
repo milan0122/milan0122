@@ -2,9 +2,9 @@
 
 I am a **data science enthusiast** with learning experience in machine learning and its applications, including **natural language processing with NLTK** and I am a **data science enthusiast** with learning experience in **machine learning** and its applications, including **natural language processing (NLP)** with **NLTK** and **deep learning**. My projects span across **data analysis**, **predictive modeling**, and **recommendation systems**.
 
-🌱 **Currently learning:** Mobile app development using **Flutter** to enhance my skills in cross-platform development.
+🌱 **Currently learning:** Machine Learning Operations **MLOPS** 
 
-🤝 **Looking to collaborate on:** Exciting projects in **machine learning**, **app development**, and **data-driven solutions**.
+🤝 **Looking to collaborate on:** Exciting projects in **machine learning**, and **data-driven solutions**.
 
 
 ---
