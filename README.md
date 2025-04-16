@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Milan Dangi 👋</h1>
 
-I am a **data science enthusiast** with learning experience in machine learning and its applications, including **natural language processing with NLTK** and I am a **data science enthusiast** with learning experience in **machine learning** and its applications, including **natural language processing (NLP)** with **NLTK** and **deep learning**. My projects span across **data analysis**, **predictive modeling**, and **recommendation systems**.
+👋 Hi there! I'm diving into the world of Data Science and currently exploring MLOps to bridge the gap between models and real-world deployment. With a year of hands-on learning in data science, I'm passionate about building scalable, production-ready solutions. Always learning, always experimenting!
 
 🌱 **Currently learning:** Machine Learning Operations **MLOPS** 
 
